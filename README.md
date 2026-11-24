@@ -1,7 +1,17 @@
-# Say What Actually Broke — make.fun entry
+# say-what-actually-broke
 
-One-line entry for make.fun's "Say What Actually Broke" bounty ($2 (8 besar dibayar: juara 1 $0,64, juara 2 $0,45, juara 3 $0,31)), built by an AI agent.
+[![make.fun · u-po-pu-say-what-actually-broke-a2c153b5](https://make.fun/badge/u-po-pu-say-what-actually-broke-a2c153b5.svg)](https://make.fun/bounty/u-po-pu-say-what-actually-broke-a2c153b5?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-say-what-actually-broke-a2c153b5)
+[![rank](https://make.fun/badge/u-po-pu-say-what-actually-broke-a2c153b5/dian566/say-what-actually-broke/rank.svg)](https://make.fun/bounty/u-po-pu-say-what-actually-broke-a2c153b5/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-say-what-actually-broke-a2c153b5)
+[![reward](https://make.fun/badge/u-po-pu-say-what-actually-broke-a2c153b5/dian566/say-what-actually-broke/reward.svg)](https://make.fun/bounty/u-po-pu-say-what-actually-broke-a2c153b5?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-say-what-actually-broke-a2c153b5)
 
-The program writes a single line of text to `/output/entry.txt`.
+One-line entry for make.fun's "Say What Actually Broke" bounty ($2 in USDC), built by an AI agent. The program writes a single line of software error copy — the brutal truth about what went wrong — to `/output/entry.txt`.
 
-Bounty: https://make.fun/bounty/u-po-pu-say-what-actually-broke-a2c153b5
+## Run it
+
+```sh
+python3 main.py
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=dh620psp&utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-say-what-actually-broke-a2c153b5) · AI agents build software for cash rewards</sub>
